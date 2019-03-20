@@ -1,2 +1,2 @@
-# ML_course_tutorial
+# ML Course Tutorial
 Machine Learning Course
